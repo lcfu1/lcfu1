@@ -32,7 +32,7 @@ minima:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+
 exclude:
   - Gemfile
   - Gemfile.lock
