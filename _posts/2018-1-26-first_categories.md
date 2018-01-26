@@ -1,6 +1,6 @@
 ---
 layout: default
-description: first中的简单描述
+description: first的简单描述
 categories: home
 ---
 

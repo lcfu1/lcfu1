@@ -1,6 +1,6 @@
 ---
 layout: default
-description: second中的简单描述
+description: second的简单描述
 categories: home
 ---
 
