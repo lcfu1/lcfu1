@@ -19,6 +19,8 @@ rss: rss
 
 baidu_analytics: 81a9bcdfa8f43bb98508ecc16c93ae78
 
+github_star: https://github.com/lcfu1/lcfu1
+
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
