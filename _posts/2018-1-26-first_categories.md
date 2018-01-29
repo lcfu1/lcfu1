@@ -2,7 +2,7 @@
 layout: default
 description: first的简单描述
 categories: home
-title: first
+title: first_categories
 ---
 
 <div class="home">
