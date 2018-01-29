@@ -12,3 +12,10 @@ permalink: /about/
 ### 使用
 
 - 请看README.md
+
+### 修改
+
+- 显示博客在github上的star
+- 返回和回到顶部
+- 加入微博关注
+- 加入百度站长统计
