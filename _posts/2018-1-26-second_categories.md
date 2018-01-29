@@ -1,6 +1,6 @@
 ---
 layout: default
-description: javascript学习
+description: second的简单描述
 categories: home
 ---
 
@@ -9,7 +9,7 @@ categories: home
   {% if site.posts.size > 0 %}
   <h2 class="post-list-heading">{{ page.list_title | default: page.title }}</h2>
     <ul class="post-list">
-      {% for post in site.categories.javascript %}
+      {% for post in site.categories.second %}
         <li>
           {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
           <span class="post-meta">{{ post.date | date: date_format }}</span>
