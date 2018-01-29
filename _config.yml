@@ -1,11 +1,11 @@
 title: Your awesome title
-author: GitHub User
+author: User
 email: your-email@domain.com
 description: 描述你的网站
 
 social_sites:
-  twitter: jekyllrb
-  github:  jekyll
+  #twitter: jekyllrb
+  github:  lcfu1
   #dribbble: jekyll
   #facebook: jekyll
   #flickr: jekyll
